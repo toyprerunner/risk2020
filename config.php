@@ -1,6 +1,6 @@
 <?php
     $dbhost="localhost";
     $dbuser="root";
-    $dbpass="0850175189t";
+    $dbpass="123456";
     $dbname="risk_";
 ?>
